@@ -24,9 +24,9 @@ For example if you play "Rather Be - Clean Bandit" you will hear:
 
 http://translate.google.com/translate_tts?tl=en&q=rather%20be%20by%20clean%20bandit
 
-TTS changed to `Festival <http://www.cstr.ed.ac.uk/projects/festival/>`_. Install it before using TTSGPIO::
+TTS changed to `Festival Lite <https://github.com/festvox/flite>`_. Install it before using TTSGPIO::
 
-    sudo apt-get install festival
+    sudo apt-get install flite
 
 
 The idea is to develop with GPIO buttons something similar to `3rd generation Ipod shuffle control <http://youtu.be/TfZUcL700wQ?t=2m40s>`_
